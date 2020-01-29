@@ -18,12 +18,12 @@ tags: 设计工具,协作
 
 Figma 除了方便设计团队内的协作，还支持交付功能，只需要把文件链接发给开发他们就能看到设计标注了。当然，除了基于 Web 带来的易于分享和协作的特性，Figma 本身使用体验也非常好，即使在浏览器中也十分顺滑，还有很多符合直觉的操作细节，可以让设计师完全专注于设计本身而不用克服工具带来的阻碍。
 
-![Figma 界面](./design-management/figma.png)
+![](https://postimg.aliavv.com/mbp/bxbyt.png)
 
 ### Sketch
 [Sketch](https://www.sketch.com/) 是使用比较广泛的一款设计工具，支持组件式设计，但是它是客户端，设计文件需要通过云功能同步。
 
-![Sketch 界面](./design-management/sketch.jpeg)
+![](https://postimg.aliavv.com/mbp/j7u1b.jpeg)
 
 ## 交付工具
 除了自己的砍柴刀要趁手，在交付给开发时也需要一个好用的工具。Sketch 不带交付功能，因此需要选择第三方工具，而 Figma 虽然有交付功能，但只能生成参考代码，如果需要更精细的功能也需要第三方工具。
